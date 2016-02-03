@@ -17,48 +17,60 @@
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">Three Men in a Boat</dc:title>
-		<meta property="file-as" refines="#title">SORT</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
-		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
+		<meta property="file-as" refines="#title">Three Men in a Boat</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">(To Say Nothing of the Dog)</dc:title>
+		<meta property="file-as" refines="#subtitle">(To Say Nothing of the Dog)</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Three Men in a Boat (To Say Nothing of the Dog)</dc:title>
+		<meta property="file-as" refines="#fulltitle">Three Men in a Boat</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<dc:subject id="subject-1">Young men -- Travel -- England -- Thames River -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Boats and boating -- England -- Thames River -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Dogs -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Humorous stories, English</dc:subject>
+		<dc:subject id="subject-5">Thames River (England) -- Fiction</dc:subject>
+		<dc:subject id="subject-6">Male friendship -- Fiction</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/308</meta>
+		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/308</meta>
+		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/308</meta>
+		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/308</meta>
+		<meta property="meta-auth" refines="#subject-5">http://www.gutenberg.org/ebooks/308</meta>
+		<meta property="meta-auth" refines="#subject-6">http://www.gutenberg.org/ebooks/308</meta>
 		<meta property="se:subject">TAG</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
+		<meta id="long-description" property="se:long-description" refines="#description">
 			LONGDESCRIPTION
-		]]></meta>
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>LINK</dc:source>
+		<dc:language>en-GB</dc:language>
+		<dc:source>http://www.gutenberg.org/ebooks/308</dc:source>
+		<dc:source>https://archive.org/details/threemeninboatto00jerorich</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">WIKILINK</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Three_Men_in_a_Boat</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jerome-k-jerome_three-men-in-a-boat</meta>
 		<dc:creator id="author">Jerome K. Jerome</dc:creator>
-		<meta property="file-as" refines="#author">SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">FULLNAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">NACOAFLINK</meta>
+		<meta property="file-as" refines="#author">Jerome, Jerome K.</meta>
+		<meta property="se:name.person.full-name" refines="#author">Jerome Klapka Jerome</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jerome_K._Jerome</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80060933.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">CONTRIB1</dc:contributor>
-		<meta property="file-as" refines="#translator">CONTRIB1SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">NACOAFLINK</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVERARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">WIKILINK</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">NACOAFLINK</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">LINK</meta>
+		<dc:contributor id="transcriber-1">David Price</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="transcriber-2">Margaret Price</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Price, Margaret</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
