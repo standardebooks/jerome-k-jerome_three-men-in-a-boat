@@ -56,17 +56,12 @@ div.list p{
 
 td[epub|type~="z3998:persona"]{
 	text-align: right;
-	white-space: nowrap;
+	/* white-space: nowrap; looks bad on smaller screens because of some long names */
 }
 
 td{
 	vertical-align: top;
 	padding: .5em;
-}
-
-[epub|type~="z3998:scene"] > p{
-	margin: 1em auto;
-	width: 75%;
 }
 
 [epub|type~="z3998:stage-direction"]:before{
@@ -103,4 +98,9 @@ i i{
 
 [epub|type~="z3998:song"] br{
 	display: none;
+}
+
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
 }
