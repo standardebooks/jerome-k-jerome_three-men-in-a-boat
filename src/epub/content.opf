@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat</dc:identifier>
 		<dc:date>2016-02-18T22:59:37Z</dc:date>
-		<meta property="dcterms:modified">2016-10-28T17:28:13Z</meta>
-		<meta property="se:revision-number">11</meta>
+		<meta property="dcterms:modified">2016-10-31T20:11:37Z</meta>
+		<meta property="se:revision-number">12</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,7 +44,7 @@
 		<dc:description id="description">The humerous travelogue of a boating holiday down the Thames taken by three friends and their dog.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Three Men in a Boat&lt;/i&gt; is one of the most popular English travelogues, having never been out of print since its publication in 1889 and causing its publisher to comment, &amp;ldquo;I cannot imagine what becomes of all the copies of that book I issue. I often think the public must eat them.&amp;rdquo;&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Three Men in a Boat&lt;/i&gt; is one of the most popular English travelogues, having never been out of print since its publication in 1889 and causing its publisher to comment, “I cannot imagine what becomes of all the copies of that book I issue. I often think the public must eat them.”&lt;/p&gt;
 			&lt;p&gt;The novel itself is a brisk, light-hearted, and funny account of a two-week boating holiday taken by three friends up the Thames river.  Jerome is a sort of everyman narrator, and even the stodgiest reader can sympathize with at least some of the situations and conundrums he and his friends find themselves in during their adventure.&lt;/p&gt;
 			&lt;p&gt;Interspersed between comic moments are slightly more serious descriptions of the picturesque villages and landscape the friends explore, making &lt;i&gt;Three Men in a Boat&lt;/i&gt; not just a comic novel but an actual account of the life, times, and land of late 19th century greater London.&lt;/p&gt;
 		</meta>
