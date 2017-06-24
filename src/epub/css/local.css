@@ -35,6 +35,11 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
+	display: block;
+	font-size: .75em;
+}
+
 footer p{
 	font-variant: small-caps;
 	text-align: right;
