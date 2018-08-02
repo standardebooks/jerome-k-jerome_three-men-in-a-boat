@@ -1,10 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-abbr.name{
-	white-space: nowrap;
-}
-
 blockquote.prescription p{
 	text-indent: 0;
 }
@@ -13,14 +9,9 @@ blockquote.prescription p.frequency{
 	text-align: right;
 }
 
-section > header{
-	text-align: center;
-}
-
 [epub|type~="bridgehead"]{
 	display: inline-block;
 	font-style: italic;
-	margin: 0 auto 3em auto;
 	max-width: 60%;
 	text-align: justify;
 	text-indent: 0;
