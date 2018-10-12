@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat</dc:identifier>
 		<dc:date>2016-02-18T22:59:37Z</dc:date>
-		<meta property="dcterms:modified">2018-09-14T23:54:57Z</meta>
-		<meta property="se:revision-number">47</meta>
+		<meta property="dcterms:modified">2018-10-12T17:22:08Z</meta>
+		<meta property="se:revision-number">48</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -52,7 +52,7 @@
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Travel</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">The humerous travelogue of a boating holiday down the Thames taken by three friends and their dog.</dc:description>
+		<dc:description id="description">The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Three Men in a Boat&lt;/i&gt; is one of the most popular English travelogues, having never been out of print since its publication in 1889 and causing its publisher to comment, “I cannot imagine what becomes of all the copies of that book I issue. I often think the public must eat them.”&lt;/p&gt;
