@@ -1,11 +1,11 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-blockquote.prescription p{
+#chapter-1 blockquote p{
 	text-indent: 0;
 }
 
-blockquote.prescription p.frequency{
+#chapter-1 blockquote p.frequency{
 	text-align: right;
 }
 
@@ -37,11 +37,13 @@ footer p{
 	text-align: right;
 }
 
-div.list{
+#chapter-13 ol{
+	list-style: none;
 	margin: 1em;
+	padding: 0;
 }
 
-div.list p{
+#chapter-13 ol p{
 	text-align: center;
 	text-indent: 0;
 }
@@ -104,7 +106,7 @@ table[epub|type~="z3998:drama"]{
 	font-variant: all-small-caps;
 }
 
-div.list + p{
+#chapter-13 ol + p{
 	text-indent: 0;
 }
 
