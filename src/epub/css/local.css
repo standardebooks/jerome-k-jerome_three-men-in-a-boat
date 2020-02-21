@@ -9,7 +9,7 @@
 	text-indent: 0;
 }
 
-#chapter-1 blockquote p.frequency{
+#chapter-1 blockquote p:nth-child(2){
 	text-align: right;
 }
 
