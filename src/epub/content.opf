@@ -61,7 +61,7 @@
 		<dc:description id="description">The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Three Men in a Boat&lt;/i&gt; is one of the most popular English travelogues, having never been out of print since its publication in 1889 and causing its publisher to comment, “I cannot imagine what becomes of all the copies of that book I issue. I often think the public must eat them.”&lt;/p&gt;
-			&lt;p&gt;The novel itself is a brisk, light-hearted, and funny account of a two-week boating holiday taken by three friends up the Thames river. Jerome is a sort of everyman narrator, and even the stodgiest reader can sympathize with at least some of the situations and conundrums he and his friends find themselves in during their adventure.&lt;/p&gt;
+			&lt;p&gt;The novel itself is a brisk, light-hearted, and funny account of a two-week boating holiday taken by three friends up the Thames river. &lt;a href="https://standardebooks.org/ebooks/jerome-k-jerome"&gt;Jerome&lt;/a&gt; is a sort of everyman narrator, and even the stodgiest reader can sympathize with at least some of the situations and conundrums he and his friends find themselves in during their adventure.&lt;/p&gt;
 			&lt;p&gt;Interspersed between comic moments are slightly more serious descriptions of the picturesque villages and landscape the friends explore, making &lt;i&gt;Three Men in a Boat&lt;/i&gt; not just a comic novel but an actual account of the life, times, and land of late 19th century greater London.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
