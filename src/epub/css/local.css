@@ -100,10 +100,6 @@ table[epub|type~="z3998:drama"]{
 	text-indent: 0;
 }
 
-i i{
-	font-style: normal;
-}
-
 [epub|type~="z3998:song"] p{
 	text-align: left;
 	text-indent: 0;
