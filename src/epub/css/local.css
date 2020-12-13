@@ -25,8 +25,9 @@
 	font-style: normal;
 }
 
-footer p{
+footer{
 	font-variant: small-caps;
+	margin-top: 1em;
 	text-align: right;
 }
 
