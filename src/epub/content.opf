@@ -58,7 +58,7 @@
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Travel</meta>
-		<meta id="collection-1" property="belongs-to-collection">The Guardian’s best 100 novels in English (2015)</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">25</meta>
 		<dc:description id="description">The humorous travelogue of a boating holiday down the Thames taken by three friends and their dog.</dc:description>
