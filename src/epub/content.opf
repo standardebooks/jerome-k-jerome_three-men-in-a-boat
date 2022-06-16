@@ -35,7 +35,7 @@
 		<dc:title id="fulltitle">Three Men in a Boat (To Say Nothing of the Dog)</dc:title>
 		<meta property="file-as" refines="#fulltitle">Three Men in a Boat</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
-		<meta property="se:alternate-title" refines="#title">3 Men in a Boat</meta>
+		<meta property="dcterms:alternate" refines="#title">3 Men in a Boat</meta>
 		<dc:subject id="subject-1">Young men -- Travel -- England -- Thames River -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Boats and boating -- England -- Thames River -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Dogs -- Fiction</dc:subject>
