@@ -77,7 +77,7 @@
 		<meta property="schema:wordCount">66909</meta>
 		<meta property="schema:educationalLevel">75.95</meta>
 		<link href="https://en.wikipedia.org/wiki/Three_Men_in_a_Boat" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/jerome-k-jerome_three-men-in-a-boat" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Jerome K. Jerome</dc:creator>
