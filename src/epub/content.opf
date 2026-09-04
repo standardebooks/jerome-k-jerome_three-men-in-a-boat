@@ -38,12 +38,12 @@
 		<meta property="file-as" refines="#fulltitle">Three Men in a Boat</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<meta property="dcterms:alternative" refines="#title">3 Men in a Boat</meta>
-		<dc:subject id="subject-1">Young men -- Travel -- England -- Thames River -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Boats and boating -- England -- Thames River -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Dogs -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Young men--Travel--England--Thames River--Fiction</dc:subject>
+		<dc:subject id="subject-2">Boats and boating--England--Thames River--Fiction</dc:subject>
+		<dc:subject id="subject-3">Dogs--Fiction</dc:subject>
 		<dc:subject id="subject-4">Humorous stories, English</dc:subject>
-		<dc:subject id="subject-5">Thames River (England) -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Male friendship -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Thames River (England)--Fiction</dc:subject>
+		<dc:subject id="subject-6">Male friendship--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
